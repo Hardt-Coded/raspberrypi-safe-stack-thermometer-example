@@ -1,0 +1,17 @@
+.fable/
+.fake/
+.idea/
+.ionide/
+.vs/
+deploy/
+obj/
+bin/
+packages/
+paket-files/
+node_modules/
+release.cmd
+release.sh
+*.orig
+*.DotSettings.user
+/_ReSharper.Caches/ReSharperPlatformVs16201_4bae76af.raspberry-safe-temperature.00
+/src/Server/Server.fsproj.user
